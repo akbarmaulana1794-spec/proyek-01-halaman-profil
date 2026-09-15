@@ -130,4 +130,15 @@ a:hover {
     padding: 0 16px;
   }
 
+  /* Perbesar jarak list item supaya lebih mudah dibaca di HP */
+  .pengalaman ol {
+    padding-left: 18px;
+  }
+
+  .pengalaman li {
+    margin-bottom: 8px;
+    line-height: 1.6;
+  }
+
 }
+
