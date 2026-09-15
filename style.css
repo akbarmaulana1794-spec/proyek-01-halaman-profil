@@ -97,31 +97,16 @@ a:hover {
 @media (max-width: 768px) {
 
   /* Hero lebih compact di HP */
-  .hero {
+  .header {
     padding: 40px 0;
   }
 
-  .hero h1 {
+  .header h1 {
     font-size: 24px;
   }
 
   /* Kartu keunggulan turun ke bawah satu-satu */
-  .keunggulan-list {
-    flex-direction: column;
-  }
-
-  /* Kartu produk turun ke bawah satu-satu */
-  .produk-list {
-    flex-direction: column;
-  }
-
-  /* Testimoni turun ke bawah satu-satu */
-  .testimoni-list {
-    flex-direction: column;
-  }
-
-  /* Langkah cara pesan turun ke bawah */
-  .langkah-list {
+  .hobi .skill-list {
     flex-direction: column;
   }
 
