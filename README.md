@@ -1,5 +1,6 @@
 # Halo, Saya Maul 👋
 
+🌐 **Live demo:** [Lihat website](https://akbarmaulana1794-spec.github.io/proyek-01-halaman-profil/)
 **Seorang web developer pemula dari Sumbawa Besar, NTB.**
 
 ## 🎯 Tentang Saya
