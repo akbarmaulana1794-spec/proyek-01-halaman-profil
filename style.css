@@ -118,6 +118,14 @@ a:hover {
     height: 120px;
   }
 
+  /* Sesuaikan .hobi-list dengan nama class yang membungkus badge hobi di HTML kamu */
+.hobi-list {
+  display: flex;
+  flex-wrap: wrap; /* Memaksa elemen turun ke bawah jika ruang tidak cukup */
+  gap: 12px;       /* Memberikan jarak yang rapi antar badge secara horizontal dan vertikal */
+  justify-content: flex-start;
+}
+
   /* Hero lebih compact di HP */
   .header {
     padding: 40px 0;
