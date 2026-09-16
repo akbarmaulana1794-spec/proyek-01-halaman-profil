@@ -126,6 +126,18 @@ a:hover {
   justify-content: flex-start;
 }
 
+/* Sesuaikan .pengalaman dengan nama class section Pengalaman Kerja kamu */
+.pengalaman ol, 
+.pengalaman ul {
+  padding-left: 16px; /* Perkecil padding kirinya. Bisa kamu sesuaikan angkanya (misal 15px - 20px) agar pas sejajar dengan teks lain */
+}
+
+/* Opsional: Untuk memastikan paragraf di Hubungi Saya juga rata */
+.kontak p {
+  margin-left: 0;
+  padding-left: 0;
+}
+
   /* Hero lebih compact di HP */
   .header {
     padding: 40px 0;
