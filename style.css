@@ -105,25 +105,9 @@ a:hover {
     font-size: 24px;
   }
 
-  /* Kartu keunggulan turun ke bawah satu-satu */
-  .hobi .skill-list {
-    flex-direction: column;
-  }
-
   /* Container lebih rapat di HP */
   .container {
     padding: 0 16px;
   }
-
-  /* Perbesar jarak list item supaya lebih mudah dibaca di HP */
-  .pengalaman ol {
-    padding-left: 18px;
-  }
-
-  .pengalaman li {
-    margin-bottom: 8px;
-    line-height: 1.6;
-  }
-
 }
 
