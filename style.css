@@ -90,6 +90,18 @@ a:hover {
     color: #92400e;
 }
 
+/* Sesuaikan .pengalaman dengan nama class section Pengalaman Kerja kamu */
+.pengalaman ol, 
+.pengalaman ul {
+  padding-left: 16px; /* Perkecil padding kirinya. Bisa kamu sesuaikan angkanya (misal 15px - 20px) agar pas sejajar dengan teks lain */
+}
+
+/* Opsional: Untuk memastikan paragraf di Hubungi Saya juga rata */
+.kontak p {
+  margin-left: 0;
+  padding-left: 0;
+}
+
 /* ================================
    RESPONSIVE - HP & Tablet
    ================================ */
@@ -124,18 +136,6 @@ a:hover {
   flex-wrap: wrap; /* Memaksa elemen turun ke bawah jika ruang tidak cukup */
   gap: 12px;       /* Memberikan jarak yang rapi antar badge secara horizontal dan vertikal */
   justify-content: flex-start;
-}
-
-/* Sesuaikan .pengalaman dengan nama class section Pengalaman Kerja kamu */
-.pengalaman ol, 
-.pengalaman ul {
-  padding-left: 16px; /* Perkecil padding kirinya. Bisa kamu sesuaikan angkanya (misal 15px - 20px) agar pas sejajar dengan teks lain */
-}
-
-/* Opsional: Untuk memastikan paragraf di Hubungi Saya juga rata */
-.kontak p {
-  margin-left: 0;
-  padding-left: 0;
 }
 
   /* Hero lebih compact di HP */
