@@ -113,6 +113,16 @@ a:hover {
     flex-direction: column;
     align-items: flex-start;
   }
+  .pengalaman-kerja ol,
+  .pengalaman-kerja ul {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .kontak p {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  
 
   /* Padding section lebih kecil di HP */
   .tentang-saya,
