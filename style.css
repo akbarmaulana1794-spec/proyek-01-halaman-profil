@@ -113,19 +113,13 @@ a:hover {
     flex-direction: column;
     align-items: flex-start;
   }
-  .pengalaman-kerja,
-  .hubungi-saya {
-    padding: 20px 16px;
-    margin: 10px auto;
-  }
-
 
   /* Padding section lebih kecil di HP */
   .tentang-saya,
   .keahlian,
-  .pengalaman,
+  .pengalaman-kerja,
   .hobi,
-  .kontak {
+  .hubungi-saya {
     padding: 20px 16px;
     margin: 10px 16px;
   }
